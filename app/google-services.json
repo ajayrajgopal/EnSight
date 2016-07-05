@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "708146748885",
+    "firebase_url": "https://ensight-3655d.firebaseio.com",
+    "project_id": "ensight-3655d",
+    "storage_bucket": "ensight-3655d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708146748885:android:54b3d8a183aa794b",
+        "android_client_info": {
+          "package_name": "in.co.entersoft.ensight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708146748885-rtpaac0p5ljd3pqq3kl2c8usi4sruuf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ8y3H4hc4hQfUKCEPTpxsP6cimi-MeL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
